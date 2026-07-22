@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Xxxadeola
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning some shit
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: @xxxadeola
 
 <!---
